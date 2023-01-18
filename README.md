@@ -1,2 +1,4 @@
-# learning-pypark
-Here are my study notes for learning Databricks, Spark and PySpark
+# Learning Pypark
+
+Here are my study notes for learning Databricks, Spark, and PySpark.
+
